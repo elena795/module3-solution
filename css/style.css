@@ -1,0 +1,69 @@
+.navbar{
+    background-color: brown;
+}
+
+
+.navbar h1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-nav{
+    align-items: center;
+}
+
+
+.nav-item span{
+    color:white;
+}
+
+.title{
+    color: teal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#chicken{
+    background-color: wheat;
+    border: 1px solid brown;
+}
+
+
+#beef{
+    background-color: salmon;
+    border: 1px solid darkred;
+}
+
+
+
+#sushi{
+    background-color: paleturquoise;
+    border: 1px solid darkturquoise;
+}
+
+
+p{
+    margin: 10px;
+}
+
+div a{
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-weight: bolder;
+}
+
+h2{
+    font-weight: bolder;
+    color: black;
+}
+
+footer{
+    background-color: brown;
+}
+
+.footer-text{
+    color: white;
+    size: 10em;
+}
